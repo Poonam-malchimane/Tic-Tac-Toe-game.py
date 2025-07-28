@@ -50,6 +50,9 @@ The AI checks if it can win in the next move. If not, it tries to block you. If 
 4.Win/Draw Check:
 After each move, check_winner checks all possible winning combinations.
 
+ check out example of output: 
+ Screenshot 2025-07-28 225009.png
+
 5.Game Over:
 If someone wins or it’s a draw, a message is shown and a restart button appears.
 6.Restart:
